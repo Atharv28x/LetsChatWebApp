@@ -1,0 +1,28 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #33a0f1, #2591d9, #1882c1, #0a73aa, #006494);
+}
+
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;
+    text-align: center;
+}
+
+
+#login_button
+{
+	width: 30%;border-radius: 15px;
+}
+
+.header
+{
+	color: white;font-family:'Times New Roman', Times, serif ;font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
